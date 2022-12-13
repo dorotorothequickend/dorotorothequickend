@@ -2,8 +2,8 @@
 
 ## I'm russian Dota 2 player, coder and beginner guitar player
 
-Languages and Tools
-![Python](https://img.shields.io/badge/-Python-222729??style=for-the-badge&logo=python&logoColor=d4d941)
-![Hikka](https://img.shields.io/badge/-Hikka-222729??style=for-the-badge&logo=termux&logoColor=d4d941)
+## Languages and Tools
+![Python](https://img.shields.io/badge/-Python-222729?style=for-the-badge&logo=python&logoColor=d4d941)
+![Hikka](https://img.shields.io/badge/-Hikka-222729?style=for-the-badge&logo=termux&logoColor=d4d941)
 
 Follow Me

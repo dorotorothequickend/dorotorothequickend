@@ -8,4 +8,4 @@
 ![Hikka](https://img.shields.io/badge/-Hikka-222729?style=for-the-badge&logo=https://github.com/dorotorothequickend/dorotorothequickend/blob/main/assets/Termux.svg.png&logoColor=d4d941)
 
 ## Follow Me
-![Telegram](https://img.shields.io/badge/-TELEGRAM-222729?style=for-the-badge&logo=Telegram&logoColor=d4d941)
+![Telegram](https://img.shields.io/badge/-TELEGRAM-222729?style=for-the-badge&logo=Telegram&logo)

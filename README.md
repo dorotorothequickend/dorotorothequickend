@@ -17,3 +17,4 @@
 [![My TG](https://img.shields.io/badge/-TelegramPage-222729?style=for-the-badge&logo=Telegram)](https://t.me/manjarouser)
 
 ![Dorotoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorotorothequickend&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorotorothequickend&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

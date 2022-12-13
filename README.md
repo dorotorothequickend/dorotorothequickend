@@ -4,7 +4,7 @@
 
 
 ## Languages and Tools
-![Python](https://img.shields.io/badge/-Python-222729?style=for-the-badge&logo=python&logoColor=d4d941)
+[![Python](https://img.shields.io/badge/-Python-222729?style=for-the-badge&logo=python)](https://python.org)
 ![Hikka](https://img.shields.io/badge/-Hikka-222729?style=for-the-badge&logo=https://github.com/dorotorothequickend/dorotorothequickend/blob/main/assets/Termux.svg.png&logoColor=d4d941)
 
 ## Follow Me

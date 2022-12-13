@@ -16,4 +16,4 @@
 [![YouTube](https://img.shields.io/badge/-Youtube-222729?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCPnIzvN1XRZycUTt7isZbSg)
 [![My TG](https://img.shields.io/badge/-TelegramPage-222729?style=for-the-badge&logo=Telegram)](https://t.me/manjarouser)
 
-[![Dorotoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorotorothequickend)](https://github.com/anuraghazra/github-readme-stats)
+![Dorotoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorotorothequickend&show_icons=true)

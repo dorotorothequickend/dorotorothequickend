@@ -1,3 +1,7 @@
-- 👋 Hi, I’m Dorotoro!
-- 👀 I’m play Dota 2.
-- 🌱 I’m currently learning Python.
+Header
+
+About me
+
+Languages and Tools
+
+Follow Me

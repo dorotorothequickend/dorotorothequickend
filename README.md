@@ -9,4 +9,4 @@
 
 ## Follow Me
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-222729?style=for-the-badge&logo=Telegram)](https://t.me/dorotoromods)
-[![Discord](https://img.shields.io/badge/-DISCORD-222729?style=for-the-badge&logo=Discord)](dorotoro#3937)
+[![Discord](https://img.shields.io/badge/-DISCORD-222729?style=for-the-badge&logo=Discord)](https://github.com/dorotorothequickend/dorotorothequickend/blob/main/assets/discord.txt)

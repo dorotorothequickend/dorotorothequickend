@@ -13,3 +13,4 @@
 [![Steam](https://img.shields.io/badge/-STEAM-222729?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/dorotorotab)
 [![Exercism](https://img.shields.io/badge/-EXERCISM-222729?style=for-the-badge&logo=Exercism)](https://exercism.org/profiles/dorotorothequickend)
 [![DotaBuff](https://img.shields.io/badge/-DotaBuff-222729?style=for-the-badge&logo=Dota)](https://dotabuff.com/players/859506346/matches)
+[![YouTube](https://img.shields.io/badge/-Youtube-222729?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCPnIzvN1XRZycUTt7isZbSg)

@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/dorotorothequickend/dorotorothequickend/blob/main/assets/header.gif)
 
 About me
 

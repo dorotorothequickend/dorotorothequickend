@@ -14,7 +14,7 @@
 [![Exercism](https://img.shields.io/badge/-EXERCISM-222729?style=for-the-badge&logo=Exercism)](https://exercism.org/profiles/dorotorothequickend)
 [![DotaBuff](https://img.shields.io/badge/-DotaBuff-222729?style=for-the-badge&logo=Dota)](https://dotabuff.com/players/859506346/matches)
 [![YouTube](https://img.shields.io/badge/-Youtube-222729?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCPnIzvN1XRZycUTt7isZbSg)
-[![My TG](https://img.shields.io/badge/-TelegramPage-222729?style=for-the-badge&logo=Telegram)](https://t.me/theoverdrive)
+[![My TG](https://img.shields.io/badge/-TelegramPage-222729?style=for-the-badge&logo=Telegram)](https://t.me/dorotoro)
 
 ![Dorotoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorotorothequickend&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorotorothequickend&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
